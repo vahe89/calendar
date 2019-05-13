@@ -1,0 +1,25 @@
+.flexCenterContainer{
+    display: flex;
+    width: 100%;
+
+    background: lightskyblue;
+    padding: 10px;
+}
+input,button {
+    margin: 10px
+}
+.buttonSaveContainer{
+    justify-content: flex-end;
+}
+.saveButton{
+    width: 150px;
+}
+.columnFlex{
+    flex-direction: column;
+}
+.flexStart{
+    justify-content: flex-start;
+}
+.inputContainer{
+    width: 50%;
+}

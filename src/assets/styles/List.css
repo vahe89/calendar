@@ -1,0 +1,13 @@
+.listContainer {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background: lightskyblue;
+    padding: 15px;
+}
+.itemContainer{
+    border: 1px solid black;
+    padding: 15px;
+    background: bisque;
+    margin: 10px;
+}
